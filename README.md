@@ -22,7 +22,7 @@ src="https://github.com/GutembergAraujo99/GutembergAraujo/issues/1#issue-1297750
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </a> 
- 
-  ![Snake animation](https://github.com/GutembergAraujo99/github-contribution-grid-snake.svg)
-
+  
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/102666404/177834130-d7f10c50-9a18-427b-ac23-59690652d679.svg)
+  
 </div>
