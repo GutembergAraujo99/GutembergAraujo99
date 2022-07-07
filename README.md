@@ -7,10 +7,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gutemberg-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/102666404/177841211-319f6e4f-7afc-4f47-be68-fe88bf800369.svg">
-  <img align="center" alt="Gutemberg-Js" height="30" width="40" src="https://user-images.githubusercontent.com/102666404/177842266-93d5ad12-2114-41b6-a074-eea389db6fec.svg)
+  <img align="center" alt="Gutemberg-Js" height="30" width="40" src="https://user-images.githubusercontent.com/102666404/177842266-93d5ad12-2114-41b6-a074-eea389db6fec.svg">
   <img align="center" alt="Gutemberg-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/102666404/177841781-4f87d060-7705-49cb-84b1-a6afc3e45d7f.svg">
   
-">
 </div>
   
   ##
