@@ -1,4 +1,4 @@
-# Falaa Dev! Me chamo Gutemberg Araújo! :space_invader:
+# Falaa Dev! Me chamo Gutemberg Araújo! :spider:
 
   <div align="center">
   <a href="https://github.com/GutembergAraujo99">
