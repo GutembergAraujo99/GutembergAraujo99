@@ -10,7 +10,6 @@
   <img align="center" alt="Gutemberg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gutemberg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-src="https://github.com/GutembergAraujo99/GutembergAraujo/issues/1#issue-1297750198" alt="Spidertocat">
 </div>
   
   ##
